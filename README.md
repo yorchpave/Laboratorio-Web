@@ -1,2 +1,2 @@
 # Laboratorio-Web
-ITESM COurse
+ITESM Course
